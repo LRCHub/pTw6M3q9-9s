@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Mainstream",
+  "base_artist": "BE:FIRST",
+  "createdAt": "2025-12-25T08:30:47.926382Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mainstream",
+      "artist": "Outkast feat. Khujo & T-Mo",
+      "has_synced": true,
+      "path": "select/01_Mainstream_Outkast_feat._Khujo_&_T-Mo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mainstream (feat. T-Mo & Khujo)",
+      "artist": "OutKast",
+      "has_synced": true,
+      "path": "select/02_Mainstream_(feat._T-Mo_&_Khujo)_OutKast.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mainstream",
+      "artist": "Headie One",
+      "has_synced": true,
+      "path": "select/03_Mainstream_Headie_One.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Gli Angeli - Italian Mainstream Mix",
+      "artist": "Vasco Rossi",
+      "has_synced": true,
+      "path": "select/04_Gli_Angeli_-_Italian_Mainstream_Mix_Vasco_Rossi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mainstream Ratchet",
+      "artist": "2 Chainz",
+      "has_synced": true,
+      "path": "select/05_Mainstream_Ratchet_2_Chainz.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mainstream",
+      "artist": "Kansas",
+      "has_synced": false,
+      "path": "select/06_Mainstream_Kansas.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "mainstream sellout",
+      "artist": "Machine Gun Kelly",
+      "has_synced": true,
+      "path": "select/07_mainstream_sellout_Machine_Gun_Kelly.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mainstream",
+      "artist": "OutKast",
+      "has_synced": true,
+      "path": "select/08_Mainstream_OutKast.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Scream - Mainstream (2012)",
+      "artist": "Usher",
+      "has_synced": true,
+      "path": "select/09_Scream_-_Mainstream_(2012)_Usher.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Take My Love (Mainstream radio edit)",
+      "artist": "The Kromozone Project",
+      "has_synced": false,
+      "path": "select/10_Take_My_Love_(Mainstream_radio_edit)_The_Kromozone_Project.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bringin' on the Heartbreak (Mainstream Version)",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/11_Bringin'_on_the_Heartbreak_(Mainstream_Version)_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mainstream 307",
+      "artist": "Non-Prophets",
+      "has_synced": true,
+      "path": "select/12_Mainstream_307_Non-Prophets.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "It's My Life (Mainstream mix)",
+      "artist": "Bon Jovi",
+      "has_synced": false,
+      "path": "select/13_It's_My_Life_(Mainstream_mix)_Bon_Jovi.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Mainstream (feat. Khujo & T-Mo)",
+      "artist": "Outkast feat. Khujo & T-Mo",
+      "has_synced": true,
+      "path": "select/14_Mainstream_(feat._Khujo_&_T-Mo)_Outkast_feat._Khujo_&_T-Mo.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Mainstream (ft. T-Bu & Khujo)",
+      "artist": "OutKast",
+      "has_synced": true,
+      "path": "select/15_Mainstream_(ft._T-Bu_&_Khujo)_OutKast.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "mainstream sellout",
+      "artist": "Machine Gun Kelly",
+      "has_synced": true,
+      "path": "select/16_mainstream_sellout_Machine_Gun_Kelly.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mainstream",
+      "artist": "BE:FIRST",
+      "has_synced": false,
+      "path": "select/pl_01_Mainstream_BE_FIRST.txt"
+    }
+  ]
+}
